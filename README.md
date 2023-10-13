@@ -35,7 +35,7 @@ For mobile
 
 ## npm install
 
-I am using "Vite" so you need to run this command to run the app
+I am using "Vite" so you need to run this command to run the application
 ## npm run dev
 
 Enter a city name in the search bar and press "Search" to retrieve weather data.
