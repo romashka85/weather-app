@@ -36,8 +36,7 @@ The Weather App is a web application that allows users to check the weather fore
 
 ## npm install
 
-I am using "Vite" so you need to run 
-
+I am using "Vite" so you need to run this command to run the app
 ## npm run dev
 
 Enter a city name in the search bar and press "Search" to retrieve weather data.
