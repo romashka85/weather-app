@@ -3,15 +3,14 @@
 ## Description
 
 The Weather App is a web application that allows users to check the weather forecast for a specific location. It provides current weather conditions, as well as a 5-day forecast. The project is built using [React](https://reactjs.org/) and retrieves weather data from the [OpenWeatherMap API](https://openweathermap.org/).
+The first Page with the daily weather
+![image](https://github.com/romashka85/weather-app/assets/22292408/3737b331-1ac9-49a5-b63c-be6225af7680)
 
-## Table of Contents
+The second page with hourly weather
+![image](https://github.com/romashka85/weather-app/assets/22292408/20eb59a6-ed4e-4ba4-b31b-2c7a2f1b320a)
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+For mobile
+![image](https://github.com/romashka85/weather-app/assets/22292408/0e4596a1-7c33-470b-a678-3f320d7a6e05)
 
 ## Features
 
